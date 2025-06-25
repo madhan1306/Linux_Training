@@ -5,7 +5,7 @@
 ## ✅ Checklist
 
 ### 🔧 System Basics
-- [ ] Create a new user and set a password  
+- [x] Create a new user and set a password  
 - [ ] Add user to a group and create a shared directory  
 - [ ] Use `chmod`, `chown`, `umask` to manage permissions  
 - [ ] Monitor CPU/memory using `top`, `htop`, `free`, `vmstat`  
